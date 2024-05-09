@@ -271,23 +271,23 @@ nav {
 }
 
 #scroll--card--1 {
-    background-image: url("./img/1.png");
+    background-image: url("./1.png");
 }
 
 #scroll--card--2 {
-    background-image: url("./img/2.jpeg");
+    background-image: url("./2.jpeg");
 }
 
 #scroll--card--3 {
-    background-image: url("./img/3.jpeg");
+    background-image: url("./3.jpeg");
 }
 
 #scroll--card--4 {
-    background-image: url("./img/4.jpeg");
+    background-image: url("./4.jpeg");
 }
 
 #scroll--card--5 {
-    background-image: url("./img/5.jpeg");
+    background-image: url("./5.jpeg");
 }
 
 /* .scroll--card img {
@@ -510,49 +510,49 @@ nav {
 }
 
 #prevweek--news-1 {
-    background-image: url(./img/tiktok.png);
+    background-image: url(./tiktok.png);
     background-size: cover;
     background-position: center;
 }
 
 #prevweek--news-2 {
-    background-image: url(./img/мэдүүштэй.jpeg);
+    background-image: url(./мэдүүштэй.jpeg);
     background-size: cover;
     background-position: center;
 }
 
 #prevweek--news-3 {
-    background-image: url(./img/мэдүүштэй-2.png);
+    background-image: url(./мэдүүштэй-2.png);
     background-size: cover;
     background-position: center;
 }
 
 #prevweek--news-4 {
-    background-image: url(./img/номын\ тухай.png);
+    background-image: url(./номын\ тухай.png);
     background-size: cover;
     background-position: center;
 }
 
 #prevweek--news-5 {
-    background-image: url(./img/right-1-2.jpeg);
+    background-image: url(./right-1-2.jpeg);
     background-size: cover;
     background-position: center;
 }
 
 #prevweek--news-6 {
-    background-image: url(./img/right-2-1.jpeg);
+    background-image: url(./right-2-1.jpeg);
     background-size: cover;
     background-position: center;
 }
 
 #prevweek--news-7 {
-    background-image: url(./img/jangsu.jpeg);
+    background-image: url(./jangsu.jpeg);
     background-size: cover;
     background-position: center;
 }
 
 #prevweek--news-8 {
-    background-image: url(./img/opinion.jpeg);
+    background-image: url(./opinion.jpeg);
     background-size: cover;
     background-position: center;
 }
